@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hihi vuongn
-=======
 hihi
->>>>>>> parent of 15b8cb5... modified develop.txt.
